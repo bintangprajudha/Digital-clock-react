@@ -1,0 +1,12 @@
+.container {
+  height: 100px;
+  text-align: center;
+}
+
+h1 {
+  display: inline-block;
+  margin: auto;
+  line-height: 50px;
+  font-size: 40px;
+  color: white;
+}
